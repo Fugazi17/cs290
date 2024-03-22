@@ -7,3 +7,6 @@ https://chat.openai.com I like how easy it is to find previous conversations and
 https://www.amazon.com/ not a big fan of is the amazon website. they make it pretty easy to find what you want but the home page is super clutered and there are menus inside menus and some of them you have to click while others you hover over
 
 lastly i dont like most streaming servises like youtube, nextflix, and hulu. they flood you with to many recomendations and I think as a result are harder to navigate than they need to be.
+
+
+most of my projects were very similar besides my final. most were simple with lots of random seeing css thrown into it so most of temdidnt look good.
